@@ -26,9 +26,9 @@
   
 # Documentation:  
 
-![ScreenShot](../Imgs/bubble.png =250x)  
+![](../Imgs/bubble.png =250x)  
   
-![ScreenShot](../Imgs/fares_frame.png =250x)  
+![](../Imgs/fares_frame.png =250x)  
   
-![ScreenShot](../Imgs/fares_pie.png =250x)  
+![](../Imgs/fares_pie.png =250x)  
   
