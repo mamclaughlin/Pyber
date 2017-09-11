@@ -21,3 +21,14 @@
 
 ## Run With:
 * Jupyter Notebook
+
+
+  
+# Documentation:  
+
+![ScreenShot](../Imgs/bubble.png =250x)  
+  
+![ScreenShot](../Imgs/fares_frame.png =250x)  
+  
+![ScreenShot](../Imgs/fares_pie.png =250x)  
+  
