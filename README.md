@@ -25,10 +25,14 @@
 
   
 # Documentation:  
+<!---->
+<!--![](../Imgs/bubble.png =250x)  -->
+<!--  -->
+<!--![](../Imgs/fares_frame.png =250x)  -->
+<!--  -->
+<!--![](../Imgs/fares_pie.png =250x)  -->
+  
+<img src="./Imgs/bubble.png" alt="Drawing" style="width: 200px;"/>  
+<img src="./Imgs/fares_frame.png" alt="Drawing" style="width: 200px;"/>  
+<img src="./Imgs/fares_pie.png" alt="Drawing" style="width: 200px;"/>  
 
-![](../Imgs/bubble.png =250x)  
-  
-![](../Imgs/fares_frame.png =250x)  
-  
-![](../Imgs/fares_pie.png =250x)  
-  
